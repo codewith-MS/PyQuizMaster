@@ -14,3 +14,5 @@ Tech Stack
 - JSON (for question storage)
 - Random module
 - Session State management
+
+<img width="1909" height="970" alt="image" src="https://github.com/user-attachments/assets/1f388368-fb1e-44c6-9288-bcf0a876d595" />

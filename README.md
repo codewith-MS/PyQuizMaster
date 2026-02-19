@@ -7,3 +7,10 @@ Features
 - Score tracking
 - Accuracy calculation
 - Time tracking
+
+Tech Stack
+- Python
+- Streamlit
+- JSON (for question storage)
+- Random module
+- Session State management
